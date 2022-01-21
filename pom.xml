@@ -6,6 +6,7 @@
   <packaging>pom</packaging>
  <modules>
   	<module>helloweb03</module>
-  	<module>boardexam</module>
-  </modules>
+  	<module>emaillist03</module>
+  	<module>guestbook</module>
+ </modules>
 </project>
