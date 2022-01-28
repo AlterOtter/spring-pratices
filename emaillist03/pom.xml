@@ -125,8 +125,8 @@
 	         			<path>/emaillist03</path>
 	         			<username>admin</username>
 	         			<passsword>manager</passsword>
-	         		</configuration>
-	         	</plugin>
+	        		</configuration>
+	        </plugin>
          
       </plugins>
    </build>
